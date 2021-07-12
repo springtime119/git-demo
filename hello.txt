@@ -15,3 +15,4 @@ ello springtime;
 ello springtime; master test
 ello springtime; hot-fix test
 1111111111111111111111111111
+ello springtime; pull test
